@@ -2,7 +2,7 @@
 
 ### **Description**
 
-C'est un site web qui permet à une personne qui ne s'intéresse pas à la musique de faire le tour du thème pour mieux le connaître
+C'est un site web qui permet à une personne qui ne s'intéresse pas à la musique de faire le tour du thème, de connaître des Hits musicale, des chanteurs connus et pourquoi ils le sont, ainsi que les différents types de musiques.
 
 ### **Guide d'utilisation**
 
