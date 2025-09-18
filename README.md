@@ -16,4 +16,4 @@ Jordan Boutbien.
 
 ### **Lien du site web**
 
-lien : (insérer lien)
+lien : https://mini-projet-jojo.neocities.org/
