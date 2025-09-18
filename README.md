@@ -1,6 +1,6 @@
 # Titre du projet : "Le Monde de la Musique."
 
-###Description
+##Description
 
 C'est un site web qui permet à une personne qui ne connaît rien à la musique de faire le tour du thème.
 
