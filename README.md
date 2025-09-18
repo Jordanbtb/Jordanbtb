@@ -1,18 +1,18 @@
 # Titre du projet : "Le Monde de la Musique."
 
-##Description
+### Description
 
 C'est un site web qui permet à une personne qui ne connaît rien à la musique de faire le tour du thème.
 
-###Guide d'utilisation
+### Guide d'utilisation
 
 Une fois le site web lancé, ne mettre aucun nom d'utilisateur et mot de passe, une fois cela fait vous allez attérir sur l'accueil qui vous expliquera où aller pour trouver tel choses, les autres pages se trouves sur le menu déroulant juste en haut à gauche, et après vous avez juste à cliquer sur ce qui vous intéresse.
 
-###Contributeur
+### Contributeur
 
 Jordan Boutbien.
 
-####Lien du site web 
+#### Lien du site web 
 
 lien : (insérer lien)
 <!--
