@@ -1,5 +1,7 @@
-## Hi there 👋
+# Bonjour, je suis Jordan.
+## Étudiant en 2ème année de BTS Ciel.
 
+## Je suis actuellement entrain de travailler sur un Mini-Proje.
 <!--
 **Jordanbtb/Jordanbtb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
